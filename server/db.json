@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "8e262849-a196-4e34-a95e-62e70c8b3136",
+      "email": "alice@ynov.com",
+      "name": "Alice",
+      "passwordHash": "$argon2id$v=19$m=19456,t=2,p=1$z1nQxRxkgKLrk0e4CfkTng$V5rB06eYn8eyLxUmp8riZZ2HFpISeToTlnLcMNuSb0g"
+    },
+    {
+      "id": "af5cf396-d7b6-4488-8a45-c53f5e7caca1",
+      "email": "bob@ynov.com",
+      "name": "Bob",
+      "passwordHash": "$argon2id$v=19$m=19456,t=2,p=1$BmBp1BjvX/cfWumIG98sdg$RN4WyUcWc1YpseIA7XV+3kVhLzyousM2jvkgHIjNJ44"
+    }
+  ]
+}
